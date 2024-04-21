@@ -8,6 +8,10 @@
   font-size: 13px;
 }
 
+.list-table {
+  margin-bottom: 50px;
+}
+
 .list-table-format.title {
   background-color: #f9f9f9;
 }
